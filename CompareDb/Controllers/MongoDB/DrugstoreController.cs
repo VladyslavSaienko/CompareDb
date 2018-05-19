@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using CompareDb.Managers.MongoDB;
+﻿using System.Threading.Tasks;
+using CompareDb.Interfaces.MongoDB;
 using CompareDb.Requests;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CompareDb.Controllers
+namespace CompareDb.Controllers.MongoDB
 {
     [Route("api/drugstore")]
     public class DrugstoreController : Controller

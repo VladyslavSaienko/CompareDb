@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using CompareDb.Models.MongoDB;
 using CompareDb.Responses;
 
-namespace CompareDb.Repositories.MongoDB
+namespace CompareDb.Interfaces.MongoDB
 {
     public interface ILaborRepository
     {

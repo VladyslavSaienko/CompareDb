@@ -4,7 +4,7 @@ using CompareDb.Models.Filters;
 using CompareDb.Requests;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CompareDb.Controllers
+namespace CompareDb.Controllers.MongoDB
 {
     [Route("api/user")]
     public class UserController : Controller

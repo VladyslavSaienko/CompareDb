@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using CompareDb.Infrastructure;
+using CompareDb.Interfaces.MongoDB;
 using CompareDb.Models.MongoDB;
 using CompareDb.Responses;
 

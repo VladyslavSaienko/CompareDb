@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using CompareDb.Requests;
 using CompareDb.Responses;
 
-namespace CompareDb.Managers.MongoDB
+namespace CompareDb.Interfaces.MongoDB
 {
     public interface IDepartmentManager
     {

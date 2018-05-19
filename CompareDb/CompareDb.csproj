@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Controllers\EF\" />
     <Folder Include="Interfaces\EF\" />
     <Folder Include="Managers\EF\" />
     <Folder Include="Models\EF\" />
